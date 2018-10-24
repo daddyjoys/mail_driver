@@ -5,5 +5,8 @@ class mail_driver {
 	function __construct($DBH) {
 		$this->DBH = $DBH;
 	}
+
+
+//
 }
 ?>
